@@ -1,0 +1,9 @@
+{
+  "packages": ["libs/*", "apps/*"],
+  "version": "independent",
+  "command": {
+    "release": {
+      "conventionalCommits": true
+    }
+  }
+}
