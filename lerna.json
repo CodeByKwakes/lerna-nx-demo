@@ -2,7 +2,7 @@
   "packages": ["libs/*", "apps/*"],
   "version": "independent",
   "command": {
-    "release": {
+    "publish": {
       "conventionalCommits": true
     }
   }
