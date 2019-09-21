@@ -1,6 +1,45 @@
 {
   "version": 1,
-  "projects": {},
+  "projects": {
+    "weapon": {
+      "projectType": "library",
+      "root": "libs/weapon",
+      "sourceRoot": "libs/weapon/src",
+      "prefix": "lerna-demo",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-ng-packagr:build",
+          "options": {
+            "tsConfig": "libs/weapon/tsconfig.lib.json",
+            "project": "libs/weapon/ng-package.json"
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "libs/weapon/tsconfig.lib.json",
+              "libs/weapon/tsconfig.spec.json"
+            ],
+            "exclude": ["**/node_modules/**", "!libs/weapon/**"]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/weapon/jest.config.js",
+            "tsConfig": "libs/weapon/tsconfig.spec.json",
+            "setupFile": "libs/weapon/src/test-setup.ts"
+          }
+        }
+      },
+      "schematics": {
+        "@nrwl/angular:component": {
+          "styleext": "scss"
+        }
+      }
+    }
+  },
   "cli": {
     "defaultCollection": "@nrwl/angular"
   },
@@ -12,5 +51,6 @@
     "@nrwl/angular:library": {
       "unitTestRunner": "jest"
     }
-  }
+  },
+  "defaultProject": "weapon"
 }
