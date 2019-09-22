@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/KwakesProject/lerna-nx-demo/compare/@lerna-demo/weapon@2.0.0...@lerna-demo/weapon@2.1.0) (2019-09-22)
+
+
+### Features
+
+* created const in  weapon lib ([7ddf65e](https://github.com/KwakesProject/lerna-nx-demo/commit/7ddf65e))
+
+
+
+
+
 # [2.0.0](https://github.com/KwakesProject/lerna-nx-demo/compare/@lerna-demo/weapon@1.0.0...@lerna-demo/weapon@2.0.0) (2019-09-22)
 
 
