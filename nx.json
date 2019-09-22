@@ -10,6 +10,12 @@
   "projects": {
     "weapon": {
       "tags": []
+    },
+    "test-app-e2e": {
+      "tags": []
+    },
+    "test-app": {
+      "tags": []
     }
   }
 }
