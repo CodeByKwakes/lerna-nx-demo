@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/KwakesProject/lerna-nx-demo/compare/test-app@2.0.0...test-app@3.0.0) (2019-09-22)
+
+
+### Features
+
+* new method to weapon lib ([511d2b1](https://github.com/KwakesProject/lerna-nx-demo/commit/511d2b1))
+
+
+### BREAKING CHANGES
+
+* new version of lib created
+
+
+
+
+
 # [2.0.0](https://github.com/KwakesProject/lerna-nx-demo/compare/test-app@1.0.1...test-app@2.0.0) (2019-09-22)
 
 
