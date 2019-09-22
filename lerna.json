@@ -6,7 +6,7 @@
       "conventionalCommits": true
     },
     "version": {
-      "push": true
+      "message": "chore(release): release version %s"
     }
   }
 }
