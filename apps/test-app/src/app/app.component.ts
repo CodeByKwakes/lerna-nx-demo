@@ -7,7 +7,7 @@ import { WeaponService } from '@lerna-demo/weapon';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'test-app';
+  title = 'Weapon X';
 
   constructor(private _weapon: WeaponService) {
     this._weapon.getMessage();
