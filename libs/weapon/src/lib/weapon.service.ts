@@ -7,6 +7,6 @@ export class WeaponService {
   constructor() {}
 
   getMessage() {
-    console.log('I am a weapon lol BREAKING CHANGE:');
+    console.log('I am a weapon lol BREAKING CHANGE: new version');
   }
 }
