@@ -9,4 +9,8 @@ export class WeaponService {
   getMessage() {
     console.log('I am a weapon lol BREAKING CHANGE: new version');
   }
+
+  getNewMsg() {
+    console.log('I am a new service');
+  }
 }
