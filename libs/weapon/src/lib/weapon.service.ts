@@ -11,7 +11,7 @@ export class WeaponService {
   }
 
   getNewMsg() {
-    const msg = 'I am a new service msg again nnew msg';
+    const msg = 'I am a new service';
     console.log(msg);
   }
 }
