@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.1](https://github.com/KwakesProject/lerna-nx-demo/compare/@lerna-demo/weapon@2.2.0...@lerna-demo/weapon@2.2.1) (2019-09-24)
+
+
+### Bug Fixes
+
+* string anot workin ([a537b5a](https://github.com/KwakesProject/lerna-nx-demo/commit/a537b5a))
+
+
+
+
+
 # [2.2.0](https://github.com/KwakesProject/lerna-nx-demo/compare/@lerna-demo/weapon@2.1.2...@lerna-demo/weapon@2.2.0) (2019-09-24)
 
 
