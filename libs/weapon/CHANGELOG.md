@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/KwakesProject/lerna-nx-demo/compare/@lerna-demo/weapon@2.1.2...@lerna-demo/weapon@2.2.0) (2019-09-24)
+
+
+### Features
+
+* **WeaponService:** added string to msg tag ([7ff61ff](https://github.com/KwakesProject/lerna-nx-demo/commit/7ff61ff))
+
+
+
+
+
 ## [2.1.2](https://github.com/KwakesProject/lerna-nx-demo/compare/@lerna-demo/weapon@2.1.1...@lerna-demo/weapon@2.1.2) (2019-09-22)
 
 
