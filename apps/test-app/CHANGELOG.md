@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.2](https://github.com/KwakesProject/lerna-nx-demo/compare/test-app@3.1.1...test-app@3.1.2) (2019-09-26)
+
+
+### Bug Fixes
+
+* removes bug ([cf1ba5c](https://github.com/KwakesProject/lerna-nx-demo/commit/cf1ba5c))
+
+
+
+
+
 ## [3.1.1](https://github.com/KwakesProject/lerna-nx-demo/compare/test-app@3.1.0...test-app@3.1.1) (2019-09-26)
 
 **Note:** Version bump only for package test-app
