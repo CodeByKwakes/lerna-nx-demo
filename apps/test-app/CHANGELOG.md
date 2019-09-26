@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0](https://github.com/KwakesProject/lerna-nx-demo/compare/test-app@3.0.0...test-app@3.1.0) (2019-09-26)
+
+
+### Features
+
+* added new feature to app.componet ([91560b7](https://github.com/KwakesProject/lerna-nx-demo/commit/91560b7))
+
+
+
+
+
 # [3.0.0](https://github.com/KwakesProject/lerna-nx-demo/compare/test-app@2.0.0...test-app@3.0.0) (2019-09-22)
 
 
