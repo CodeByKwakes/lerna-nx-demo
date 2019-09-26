@@ -13,9 +13,10 @@ export class AppComponent {
     this._weapon.getMessage();
     _weapon.getNewMsg();
     console.log('fixed bug');
+    this.getMessage();
   }
 
-  // getMessage() {
-  //   console.log()
-  // }
+  getMessage() {
+    console.log('this is NEW!!');
+  }
 }
