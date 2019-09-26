@@ -12,7 +12,7 @@ export class AppComponent {
   constructor(private _weapon: WeaponService) {
     this._weapon.getMessage();
     _weapon.getNewMsg();
-    console.log('fixed bug');
+    console.log('fixed');
     this.getMessage();
   }
 
