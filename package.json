@@ -38,23 +38,23 @@
     "@angular/platform-browser": "^8.0.0",
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
-    "@nrwl/angular": "^8.4.10",
+    "@nrwl/angular": "^8.6.0",
     "@types/core-js": "^2.5.2",
     "@types/zone.js": "^0.5.12",
     "core-js": "^2.5.4",
-    "rxjs": "~6.4.0",
+    "rxjs": "~6.5.3",
     "tslib": "^1.9.0",
     "zone.js": "^0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.800.1",
-    "@angular-devkit/build-ng-packagr": "~0.801.1",
-    "@angular/cli": "8.1.1",
+    "@angular-devkit/build-angular": "^0.803.3",
+    "@angular-devkit/build-ng-packagr": "~0.803.3",
+    "@angular/cli": "8.3.3",
     "@angular/compiler-cli": "^8.0.0",
     "@angular/language-service": "^8.0.0",
-    "@nrwl/cypress": "8.4.10",
-    "@nrwl/jest": "8.4.10",
-    "@nrwl/workspace": "8.4.10",
+    "@nrwl/cypress": "8.6.0",
+    "@nrwl/jest": "8.6.0",
+    "@nrwl/workspace": "8.6.0",
     "@types/jest": "^24.0.9",
     "@types/node": "~8.9.4",
     "@types/semantic-release": "^15.13.0",
@@ -75,7 +75,7 @@
     "ts-node": "~7.0.0",
     "tsickle": "^0.35.0",
     "tslint": "~5.11.0",
-    "typescript": "~3.4.5"
+    "typescript": "~3.5.3"
   },
   "config": {
     "commitizen": {
